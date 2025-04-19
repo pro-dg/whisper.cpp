@@ -1,8 +1,8 @@
 #ifndef WHISPER_H
 #define WHISPER_H
 
-#include "ggml.h"
-#include "ggml-cpu.h"
+#include "../ggml/include/ggml.h"
+#include "../ggml/include/ggml-cpu.h"
 
 #include <stddef.h>
 #include <stdint.h>
